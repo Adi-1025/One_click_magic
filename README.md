@@ -13,4 +13,4 @@ Automation for Daily Workflows – Useful for employees who need to open dashboa
 Lightweight & Easy to Use – No extra software required; works on any Windows system with minimal setup.
 
 Made by: Aditya Dutta
-This project provides a simple yet effective solution for improving web browsing efficiency. Let me know if you need any modifications! 😊
+This project provides a simple yet effective solution for improving web browsing efficiency. 😊
